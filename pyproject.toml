@@ -13,4 +13,5 @@ dependencies = [
     "pillow>=10.4.0",
     "qdrant-client>=1.14.1",
     "streamlit>=1.44.1",
+    "llama-index-llms-google-genai>=0.1.7",
 ]
